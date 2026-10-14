@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "skills": {
+    "melech-8020": {
+      "source": "AdirD/agent-shell-hamelech",
+      "sourceType": "github",
+      "skillPath": "skills/melech-8020/SKILL.md",
+      "computedHash": "dafd663c7134cb384fd065fd6d18f44faa9745800d19e021398861a56dcd3591"
+    },
+    "melech-buy-vs-build": {
+      "source": "AdirD/agent-shell-hamelech",
+      "sourceType": "github",
+      "skillPath": "skills/melech-buy-vs-build/SKILL.md",
+      "computedHash": "c78afd65fad68723736906a3be4f45c9b5632405ba2b82f3c5d2502885ae70a7"
+    },
+    "melech-challenge": {
+      "source": "AdirD/agent-shell-hamelech",
+      "sourceType": "github",
+      "skillPath": "skills/melech-challenge/SKILL.md",
+      "computedHash": "ddad7b1550ca1d2644d42b9b37f9a8e6f9b0a449b9eab35711a7fc55bbf18f2c"
+    },
+    "melech-consult": {
+      "source": "AdirD/agent-shell-hamelech",
+      "sourceType": "github",
+      "skillPath": "skills/melech-consult/SKILL.md",
+      "computedHash": "f3768f03db8ddd241b9b65305730f849e0fc89240afff59fa5aae55f8372e455"
+    },
+    "melech-cost": {
+      "source": "AdirD/agent-shell-hamelech",
+      "sourceType": "github",
+      "skillPath": "skills/melech-cost/SKILL.md",
+      "computedHash": "dee88426685b2c0925b5b1ab7439df56a1bd06298876213d0cc50f2f8e74ab0e"
+    },
+    "melech-cr-clone-trainer": {
+      "source": "AdirD/agent-shell-hamelech",
+      "sourceType": "github",
+      "skillPath": "skills/melech-cr-clone-trainer/SKILL.md",
+      "computedHash": "b7e6c3900ec5acac15216a7f3b9e87b1e7055f35cada5ae5977a6b91f37a31c8"
+    },
+    "melech-debug-mode": {
+      "source": "AdirD/agent-shell-hamelech",
+      "sourceType": "github",
+      "skillPath": "skills/melech-debug-mode/SKILL.md",
+      "computedHash": "e975637f5ffa4d1a97e3b209be8fa45d8704203e35fc8d58b920f97bff82380a"
+    },
+    "melech-distill-need": {
+      "source": "AdirD/agent-shell-hamelech",
+      "sourceType": "github",
+      "skillPath": "skills/melech-distill-need/SKILL.md",
+      "computedHash": "b02f6c28c58cd69de4e8dbf54f8701443eaa31914cb853594da1e984c0d6d6a1"
+    },
+    "melech-handoff": {
+      "source": "AdirD/agent-shell-hamelech",
+      "sourceType": "github",
+      "skillPath": "skills/melech-handoff/SKILL.md",
+      "computedHash": "7ecbe6ea2c78b0c3944499cb3bc52980f0d6501d59a98e72701d90c9aec3998d"
+    },
+    "melech-idea-to-canvas": {
+      "source": "AdirD/agent-shell-hamelech",
+      "sourceType": "github",
+      "skillPath": "skills/melech-idea-to-canvas/SKILL.md",
+      "computedHash": "6311bf96bbd47aad16a362a2dd70d4d3e19161953e75916b2d31e3eb339a2dee"
+    },
+    "melech-live-browser": {
+      "source": "AdirD/agent-shell-hamelech",
+      "sourceType": "github",
+      "skillPath": "skills/melech-live-browser/SKILL.md",
+      "computedHash": "9fabd8a9c1b9f4cec48e1804a405cf5a3ad928116400dd9acd88e51488db8490"
+    },
+    "melech-make-it-click": {
+      "source": "AdirD/agent-shell-hamelech",
+      "sourceType": "github",
+      "skillPath": "skills/melech-make-it-click/SKILL.md",
+      "computedHash": "159d2aa0fbc2834f5a6326acd75a9dccdf37711dd51eb7825f8451b2786fbcfc"
+    },
+    "melech-market-validation": {
+      "source": "AdirD/agent-shell-hamelech",
+      "sourceType": "github",
+      "skillPath": "skills/melech-market-validation/SKILL.md",
+      "computedHash": "14b19344a7c4bed84967f6f8f09005688c1d3841a2e6b5ec701cea4b29f8f013"
+    },
+    "melech-plan-review": {
+      "source": "AdirD/agent-shell-hamelech",
+      "sourceType": "github",
+      "skillPath": "skills/melech-plan-review/SKILL.md",
+      "computedHash": "8f29745750d0f3a775dde5c5a5179b13f143608a62dd6c109bb120a71c94e35a"
+    },
+    "melech-pr-gardener": {
+      "source": "AdirD/agent-shell-hamelech",
+      "sourceType": "github",
+      "skillPath": "skills/melech-pr-gardener/SKILL.md",
+      "computedHash": "7c7af3a2fc651314d68bf5b56d609fa7457cf05d0d24245dad06754cdb16bb7f"
+    },
+    "melech-pre-plan": {
+      "source": "AdirD/agent-shell-hamelech",
+      "sourceType": "github",
+      "skillPath": "skills/melech-pre-plan/SKILL.md",
+      "computedHash": "46c643b21940f877f01ad34dd6c40e6a2086e4b571cce95bc3566fa001719875"
+    },
+    "melech-roi": {
+      "source": "AdirD/agent-shell-hamelech",
+      "sourceType": "github",
+      "skillPath": "skills/melech-roi/SKILL.md",
+      "computedHash": "a658daddf8dea27e2b7718f08e772197608fdd089e0527b354232cbd2052c965"
+    },
+    "melech-smart-comments": {
+      "source": "AdirD/agent-shell-hamelech",
+      "sourceType": "github",
+      "skillPath": "skills/melech-smart-comments/SKILL.md",
+      "computedHash": "449da82e682ed0ac13647eae5b7bc3a9e30f3d44df74ee4afa562b90e792d9e5"
+    },
+    "melech-sync-skills": {
+      "source": "AdirD/agent-shell-hamelech",
+      "sourceType": "github",
+      "skillPath": "skills/melech-sync-skills/SKILL.md",
+      "computedHash": "89298c4863dea8328b5a8d525b7d1a6b009993976717b26e9a7e268274f75958"
+    },
+    "melech-think-with-me": {
+      "source": "AdirD/agent-shell-hamelech",
+      "sourceType": "github",
+      "skillPath": "skills/melech-think-with-me/SKILL.md",
+      "computedHash": "fcf867da0ba42e2ba5eccfb1effae41e6730c5bc6b39db8d40cd5d60b581be10"
+    },
+    "melech-tidy": {
+      "source": "AdirD/agent-shell-hamelech",
+      "sourceType": "github",
+      "skillPath": "skills/melech-tidy/SKILL.md",
+      "computedHash": "1938b5e9868162831223caa938c375d4533a25697ecf94eb0662aef50e5d96b9"
+    },
+    "melech-verify": {
+      "source": "AdirD/agent-shell-hamelech",
+      "sourceType": "github",
+      "skillPath": "skills/melech-verify/SKILL.md",
+      "computedHash": "967fc0443f7c6394d6de936553326e288eb408cc1777c64aeed14f6fc8238a02"
+    },
+    "melech-visualize": {
+      "source": "AdirD/agent-shell-hamelech",
+      "sourceType": "github",
+      "skillPath": "skills/melech-visualize/SKILL.md",
+      "computedHash": "98f71ebdee67d4fe5ff2a20014a11023354cbf0c4b2944d4f0b7af69c13a8860"
+    }
+  }
+}
